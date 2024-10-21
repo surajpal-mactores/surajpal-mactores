@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @surajpal-mactores
+- 👋 Hi, I’m Suraj, @surajpal-mactores
 - 👀 I’m interested in AI&ML, Graphics programming and System Designs
 - 🌱 I’m currently learning Rust and System designs
 - 💞️ I’m looking to collaborate on my hobby chess game based on unsupervised learning.
